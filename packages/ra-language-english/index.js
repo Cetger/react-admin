@@ -84,6 +84,8 @@ module.exports = {
             not_found:
                 'Either you typed a wrong URL, or you followed a bad link.',
             yes: 'Yes',
+            unsaved_changes:
+                "Some of your changes weren't saved. Are you sure you want to ignore them?",
         },
         navigation: {
             no_results: 'No results found',
